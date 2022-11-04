@@ -1,0 +1,4 @@
+在Index.php文件包含
+include 'ip_heimd.php';
+include'awf.php';
+
